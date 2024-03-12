@@ -2,11 +2,11 @@
 
 ## Sitemap
 
--Home
-  -about me
-  -Projects
-    -website 01
-    -Cool Database
-    -API Server
-  -Contact me 
-  -skills/Experience/etc
+- Home
+  - about me
+  - Projects
+    - website 01
+    - Cool Database
+    - API Server
+  - Contact me 
+  - skills/Experience/etc
